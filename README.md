@@ -1,5 +1,5 @@
 # hello-world
-First Repository using GIT.
+=============
 
 About me:
 Freelance LAMP Stack Web Developer, currently working on The Travel WOD, LLC.
